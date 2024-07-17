@@ -46,11 +46,11 @@
 # Quiz9_2. 
 ### 다음 중 데이터의 종류와 자료형이 잘못 짝지어진 것을 고르세요.
 
-1 문자열 - "Hello, Javascript"
-2 숫자형 - 0.111121212
-3 논리형 - true
-4 undefined - undefined
-5 배열 - {}
+1. 문자열 - "Hello, Javascript"
+2. 숫자형 - 0.111121212
+3. 논리형 - true
+4. undefined - undefined
+5. 배열 - {}
 
 ## 정답 5번
 
@@ -66,10 +66,10 @@ let q3 = !(10 < 20) && 10 < 20;
 console.log(q1);
 ```
 
-1 40, false, true
-2 40, true, false
-3 40, false, false
-4 30, true, false
-5 30, false, true
+1. 40, false, true
+2. 40, true, false
+3. 40, false, false
+4. 30, true, false
+5. 30, false, true
 
 ## 정답: 4
